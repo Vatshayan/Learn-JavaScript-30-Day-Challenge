@@ -1,0 +1,4 @@
+// String
+console.log('JavaScript');
+// Number
+console.log(2011);
