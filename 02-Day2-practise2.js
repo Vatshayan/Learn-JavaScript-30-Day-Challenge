@@ -26,4 +26,10 @@ console.log(Math.random() * 50); // Prints 44.5
 console.log(Math.floor(Math.random()*100)); // Prints 95
 
 
+// Put the number 2017 in the parentheses of the method and use console.log() to print the result.
+console.log(Number.isInteger(2017)); //Print true
+
+
+
+
 
