@@ -18,3 +18,12 @@ console.log('Hey'.startsWith('H')); //Prints True
 console.log('    Remove whitespace   '.trim()); //Prints Remove whitespace
 
 
+// Built-in Objects
+// To generate a random number between 0 and 50, we could multiply this result by 50, like so:
+console.log(Math.random() * 50); // Prints 44.5
+
+// Math.floor() takes a decimal number, and rounds down to the nearest whole number. You can use
+console.log(Math.floor(Math.random()*100)); // Prints 95
+
+
+
