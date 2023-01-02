@@ -2,6 +2,9 @@
 Learn Javascript Everyday I will do one coding in javascript. New
 
 
+
+JS is case senstive !!
+
 ### some basic programming  brackets knowledge :
 
 Parenthesis also curved brackets : ()
